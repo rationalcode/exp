@@ -7,4 +7,20 @@
     android:orientation="horizontal"
     tools:context="com.example.admin.exp.MainSelect">
 
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:inputType="textPersonName"
+        android:text="Name" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Button"
+        android:onClick="onClick"/>
+
 </android.widget.LinearLayout>

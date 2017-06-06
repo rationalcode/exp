@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">exp</string>
+    <string name="clickButton">Click Button</string>
 </resources>
